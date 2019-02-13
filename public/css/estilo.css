@@ -1,0 +1,30 @@
+textarea{
+	resize: none;
+}
+
+
+.inputsActividad{
+	margin-top: 200px;
+margin-left: 100px;
+}
+
+.planActividad{
+	background: #FF5733;
+}
+
+.contenido{ margin: auto;
+position: relative;
+width: 1500px;
+height: 100px;
+}/*para q muestre el scroll lateral*/
+
+.columna-izquierda{
+margin-left: 25px;
+width:725px;
+height:20px;
+float: left;}
+
+.columna-derecha{
+width:750px;
+height:20px;
+float: right;}
